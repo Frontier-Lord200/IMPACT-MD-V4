@@ -55,7 +55,7 @@
 <p style="text-align: center; font-size:1.2em;">
   
 <p align="">
-<a href='https://onrender.com' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-session site-CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://jinwoo-pair.onrender.com/pair' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-session site-CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img
 
 ---
